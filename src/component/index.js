@@ -25,7 +25,7 @@ if (GlobalVue) {
     GlobalVue.use(plugin);
 }
 
-export default {
+export {
     ZdAudio,
     ZdCanvas
 };

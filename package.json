@@ -1,11 +1,11 @@
 {
   "name": "zd-fe-components",
   "description": "早道前端组件库",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "xiushiwen <xiushiwen@izaodao.org>",
   "license": "MIT",
   "private": false,
-  "main": "dist/zd-common.js",
+  "main": "dist/zd.common.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
