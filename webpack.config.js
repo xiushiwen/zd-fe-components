@@ -7,7 +7,10 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'zd.common.js'
+    filename: 'zd-common.js',
+    library: 'zd-common',
+    libraryTarget: 'umd',
+    umdNamedDefine: true
   },
   module: {
     rules: [

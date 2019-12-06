@@ -6,7 +6,7 @@
 </template>
 <script>
 export default {
-    
+    name: 'ZdAudio'
 }
 </script>
 <style lang="scss">

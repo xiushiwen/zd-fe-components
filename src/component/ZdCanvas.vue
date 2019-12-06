@@ -6,7 +6,7 @@
 </template>
 <script>
 export default {
-    
+    name: 'ZdCanvas'
 }
 </script>
 <style lang="scss">
