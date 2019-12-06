@@ -32,5 +32,17 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xiushiwen/zd-fe-components.git"
+  },
+  "bugs": {
+      "url": "https://github.com/xiushiwen/zd-fe-components/issues"
+  },
+  "homepage": "https://github.com/xiushiwen/zd-fe-components",
+  "keywords": [
+      "zaodaofe",
+      "zaodao"
+  ]
 }
